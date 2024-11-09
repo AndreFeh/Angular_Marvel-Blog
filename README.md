@@ -22,7 +22,7 @@ Onde não permitira lançar a aplicação com erro
 
 Para mostrarmos isso, vamos primeiro iniciar com TS para depois ingressar de fato no Angular
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.001.jpeg)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.001.jpeg)
 
 O JS seria o Tonny
 
@@ -46,7 +46,7 @@ segunda-feira, 7 de outubro de 2024 17:49
 
 Para instalar o TS, podemos entrar no site do TS Clicando em Download
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.002.jpeg)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.002.jpeg)
 
 Se já temos o NODE JS instalado na maquina
 
@@ -58,9 +58,9 @@ Temos duas maneiras de baixar o TS, atraves do projeto, ou mais abaixo no site, 
 
 Página 1 de Nova Seção 1
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.003.jpeg)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.003.jpeg)
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.004.jpeg)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.004.jpeg)
 
 Quando quero rodar o TS dentro do projeto, podemos fazer como da primeira print Vai que em cada projeto, precisemos de uma versao diferente
 
@@ -76,11 +76,11 @@ O primeiro retorno com o numero O segundo sem numero
 
 O primeiro retornou um numero, o segundo não encontrou, mas ao inves de retornar erro, retornou Undefined
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.005.jpeg)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.005.jpeg)
 
 Com TS podemos criar tipo CONSTRUTOR onde conseguimos definir o que é necessario 
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.006.png)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.006.png)
 
 Dessa forma, tipando-o, podemos definir o que é e o que não esta certo, como ali acusando que não tem o Telefone
 
@@ -88,7 +88,7 @@ Sabemos que precisamos inserir o telefone
 
 Página 1 de Nova Seção 1
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.007.png)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.007.png)
 
 Página 1 de Nova Seção 1
 
@@ -98,7 +98,7 @@ segunda-feira, 7 de outubro de 2024 19:19
 
 Para instalar dentro do projeto, se certifique que esta na pasta padrao do projeto RODAR "npm init -y" PARA INICIAR O PROJETO NODE NA RAIZ
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.008.png)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.008.png)
 
 Assim que na pasta do projeto, rodar esse comando
 
@@ -110,7 +110,7 @@ Isso impede de publicar ou fazer deploy do projeto, deixando somente em ambiente
 
 Esse comando criou um projeto TS
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.009.png)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.009.png)
 
 O SRC criei eu mas não sei se não criar ele cria sozinho
 
@@ -132,7 +132,7 @@ Para isso, precisamos antes de mais nada "TRADUZIR O CODIGO PARA JS"
 
 Utilizando do NPX - Node Package Execute como na print abaixo
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.010.jpeg)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.010.jpeg)
 
 No entanto quando traduzido, os dois estao na mesma classe SRC e dessa forma ele da erro se identifica a mesma Function 2x ou mais repetidamente
 
@@ -144,7 +144,7 @@ Ou seja, o TS é um controle, uma segurança, um "gateway" para o JS mas no fim,
 
 Página 1 de Nova Seção 1
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.011.jpeg)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.011.jpeg)
 
 PARA ISSO, AGORA NECESSARIO MEXER NAS CONFIGURAÇÕES DO NODE 
 
@@ -164,13 +164,13 @@ PRECISAMOS RESOLVER 2 CHATICES DO CODIGO
 |Necessario jogar o comando do NPX|NPX TSC --INIT|
 | - | - |
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.012.jpeg)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.012.jpeg)
 
 Dessa forma conseguimos gerenciar elementos e configurações
 
 Para saber mais o que habilitar ou desabilitar, verificar em TS CONFIG dentro do site do Typescript
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.013.jpeg)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.013.jpeg)
 
 Quando gerado esse --init
 
@@ -178,9 +178,9 @@ Ele gera um config, com ele conseguimos ver as diversas configurações que pode
 
 Página 1 de Nova Seção 1
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.014.jpeg)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.014.jpeg)
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.015.png)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.015.png)
 
 VEJA QUE TANTO ESSE ROOTDIR E ESSE OUTDIR, REMOVI DOS COMENTARIOS
 
@@ -194,7 +194,7 @@ O que é traduzido ira para a pasta /build, dessa forma não ficara mais junto c
 
 Dessa forma, agora quando somente npx tsc... Dessa forma em Build/index.js...
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.016.jpeg)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.016.jpeg)
 
 Ele traduziu para Build, futuramente consequentemente rodando node para JS, ele executou normalmente
 
@@ -206,7 +206,7 @@ Se quisermos fazer isso como em start.io
 
 Em PLAYGROUND já deixa tudo preparado da tambem, mas é mais informativo para o futuro, da primeira forma
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.017.jpeg)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.017.jpeg)
 
 Página 1 de Nova Seção 1
 
@@ -224,7 +224,7 @@ Em SCRIPT, adicionar START e as config...
 
 "start": "npx tsc && node build/index.js",
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.018.png)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.018.png)
 
 "
 
@@ -232,7 +232,7 @@ Dessa forma jogando um npm run start
 
 Rodando o START, conseguimos iniciar o que esta dentro dele
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.019.png)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.019.png)
 
 Página 1 de Nova Seção 1
 
@@ -251,25 +251,25 @@ Temos 3 tipos primitivos
 
 Com os tipos que definimos variaveis Como declarar os tipos primitivos...
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.020.png)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.020.png)
 
 TIPOS NULL E INDEFINIDOS
 
 Quando não queremos que o usuario altere ou por alguma razao ele deve permanecer nulo
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.021.png)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.021.png)
 
 TIPOS ABRANGENTES
 
 Quando queremos que o retorno seja vazio ou quando não temos como saber como sera seu retorno
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.022.png)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.022.png)
 
 OBJETOS
 
 SEM PREVISIBILIDADE
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.023.png)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.023.png)
 
 COM PREVISIBILIDADE
 
@@ -277,7 +277,7 @@ Objetos normais como em outras linguagens, podendo instanciar mais de um objeto2
 
 Página 1 de Nova Seção 1
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.024.png)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.024.png)
 
 Página 1 de Nova Seção 1
 
@@ -353,13 +353,13 @@ Podemos tambem trabalhar com arrays com mais de um dado, como definido abaixo,
 
 TIPO STRING E NUMBER (Number independente de Decimal ou Inteiro)
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.025.png)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.025.png)
 
 NO ENTANTO ELE NÃO VAI JUNTAR O 1° COM O 2, 
 
 TANTO QUE ELES NEM PRECISAM ESTAR EM ORDEM
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.026.png)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.026.png)
 
 Página 1 de Nova Seção 1
 
@@ -371,13 +371,13 @@ Vetor com multi-elementos
 
 Com já visto no anterior, TUPLAS são feitas da seguinte forma
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.027.png)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.027.png)
 
 A diferenca de um VETOR COM MULTIPOS ELEMENTOS,
 
 A Tupla respeita a forma que foi informado, sendo que se esquecer um "" ou informar um tipo "certo" mas na ordem errada, ele retorna um erro
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.028.png)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.028.png)
 
 SE ESQUECER UM ELEMENTO OU DEFINIR UM TIPO ERRADO É A MESMA COISA
 
@@ -389,7 +389,7 @@ terça-feira, 8 de outubro de 2024 21:29
 
 Dentro dos ARRAYS, temos metodos que conseguimos manipular os Arrays
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.029.png)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.029.png)
 
 Comandos mais comuns para mapear elementos/ filtra-los, remove-los... Enfim, gerenciar os elementos
 
@@ -407,7 +407,7 @@ terça-feira, 8 de outubro de 2024 21:37
 
 Para organizar datas, prcisamos iutilizar da biblioteca e filtrando do padrao americano
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.030.png)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.030.png)
 
 Como bem observado, melhor definir com a hora, senao necessario uma configuração futura
 
@@ -425,7 +425,7 @@ visando futuramente,
 
 de maneira explicita é melhor
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.031.png)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.031.png)
 
 Página 1 de Nova Seção 1
 
@@ -443,7 +443,7 @@ Para evitar isso
 
 É sempre bom definir quais os tipos que ele pode retornar
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.032.png)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.032.png)
 
 "
 
@@ -463,7 +463,7 @@ Em Java é feito no começo *(PUBLIC VOID/ PUBLIC INTEGER ...)*
 
 Em JS é no final da Function
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.033.png)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.033.png)
 
 Página 1 de Nova Seção 1
 
@@ -475,13 +475,13 @@ Interfaces são parecidas com TYPE
 
 *TYPE* fazem produtos, objetos agregados de varias propriedades
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.034.png)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.034.png)
 
 Mais utilizado quando queremos tipar algo
 
 *INTERFACES*, parecido com TYPE, mas  são bastante usados quando trabalhando com classes
 
-![](Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.035.png)
+![](img/Aspose.Words.16be4d22-f78c-47d4-803f-742f821031c3.035.png)
 
 Da para relacionar como um contrato compra
 
